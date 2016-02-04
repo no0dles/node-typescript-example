@@ -1,0 +1,45 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "config/config.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "superagent/superagent.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "supertest/supertest.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "node/node.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "chai/chai.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "express/express.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "mime/mime.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "e69fe60f2d6377ea4fae539493997b098f52cad1"
+    }
+  }
+}

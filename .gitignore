@@ -1,0 +1,10 @@
+public/dist/
+bin/
+test/**/*.js
+.idea/
+
+public/components/
+typings/
+node_modules/
+
+*.log

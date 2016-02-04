@@ -1,0 +1,36 @@
+{
+  "name": "node-typescript-example",
+  "version": "1.0.0",
+  "description": "node typescript example",
+  "main": "bin/index.js",
+  "scripts": {
+    "postinstall": "gulp install",
+    "test": "gulp test-server"
+  },
+  "author": "no0dles",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no0dles/node-typescript-example"
+  },
+  "bugs": {
+    "url": "https://github.com/no0dles/node-typescript-example/issues"
+  },
+  "homepage": "https://github.com/no0dles/node-typescript-example#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-install": "^0.6.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-typescript": "^2.10.0",
+    "gulp-watch": "^4.3.5",
+    "mocha": "^2.4.5",
+    "supertest": "^1.1.0"
+  },
+  "dependencies": {
+    "config": "^1.19.0"
+  }
+}

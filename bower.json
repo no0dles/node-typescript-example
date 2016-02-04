@@ -1,0 +1,23 @@
+{
+  "name": "node-typescript-example",
+  "description": "node typescript example",
+  "main": "public/dist/main.js",
+  "authors": [
+    "Pascal Bertschi <pascal.bertschi@hotmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "https://github.com/no0dles/node-typescript-example",
+  "ignore": [
+    "node_modules",
+    "typings",
+    "public/components",
+    "public/**/*.ts",
+    "test",
+    "app",
+    "bin"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9"
+  }
+}
